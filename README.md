@@ -1,1 +1,1 @@
-# sugata-goru
+# sugata
